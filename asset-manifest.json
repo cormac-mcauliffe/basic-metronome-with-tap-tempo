@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basic-metronome-with-tap-tempo/static/css/main.6d90cbf6.css",
+    "main.js": "/basic-metronome-with-tap-tempo/static/js/main.f280dfac.js",
+    "static/js/787.fbc2f15a.chunk.js": "/basic-metronome-with-tap-tempo/static/js/787.fbc2f15a.chunk.js",
+    "static/media/tick.wav": "/basic-metronome-with-tap-tempo/static/media/tick.07cda4b8bbbe927d486f.wav",
+    "index.html": "/basic-metronome-with-tap-tempo/index.html",
+    "main.6d90cbf6.css.map": "/basic-metronome-with-tap-tempo/static/css/main.6d90cbf6.css.map",
+    "main.f280dfac.js.map": "/basic-metronome-with-tap-tempo/static/js/main.f280dfac.js.map",
+    "787.fbc2f15a.chunk.js.map": "/basic-metronome-with-tap-tempo/static/js/787.fbc2f15a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d90cbf6.css",
+    "static/js/main.f280dfac.js"
+  ]
+}
