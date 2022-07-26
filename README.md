@@ -1,5 +1,5 @@
 # BASIC METRONOME WITH 'TAP TEMPO' FEATURE (using setInterval)
-Live [here](https://cormac-mcauliffe.github.io/basic-metronome-with-tap-tempo/)
+Live [HERE](https://cormac-mcauliffe.github.io/basic-metronome-with-tap-tempo/).
 
 # Getting Started with Create React App
 
