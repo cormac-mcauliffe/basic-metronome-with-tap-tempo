@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Set global app width and center webpage for large screens */
+#root {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}

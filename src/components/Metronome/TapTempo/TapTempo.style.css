@@ -1,0 +1,16 @@
+.tap-tempo-button-container {
+    padding: 15px 0px 10px 0px;
+}
+
+.tap-tempo-button-container input {
+    height: 30px;
+    width: 100%;
+}
+
+.clear-tap-tempo-button-container {
+    padding-top: 10px;
+}
+
+.clear-tap-tempo-button-container input {
+    height: 30px;
+}

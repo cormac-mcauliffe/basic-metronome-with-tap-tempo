@@ -1,0 +1,20 @@
+.metronome-container {
+    border: 1px solid;
+    padding: 20px;
+}
+
+.metronome-header {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.bpm-play {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bpm-display {
+    font-size: 23px;
+}
